@@ -28,6 +28,7 @@ public class MainActivity extends ActionBarActivity {
         setContentView(R.layout.activity_main);
     }
 
+    //Comment
     /**
      * This method is called when the order button is clicked.
      */
